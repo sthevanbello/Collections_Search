@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresConjuntos", "..\O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covariancia", "..\Covariancia\Covariancia.csproj", "{349FD245-0B9F-46A4-85BE-34FF89B787FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foreach", "..\Foreach\Foreach.csproj", "{B0FCE84C-95DF-44A5-B565-5BD42F66306C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{349FD245-0B9F-46A4-85BE-34FF89B787FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{349FD245-0B9F-46A4-85BE-34FF89B787FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{349FD245-0B9F-46A4-85BE-34FF89B787FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0FCE84C-95DF-44A5-B565-5BD42F66306C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0FCE84C-95DF-44A5-B565-5BD42F66306C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0FCE84C-95DF-44A5-B565-5BD42F66306C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0FCE84C-95DF-44A5-B565-5BD42F66306C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
