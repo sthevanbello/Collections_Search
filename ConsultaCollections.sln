@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutrosOperadoresLinq", "..\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresConjuntos", "..\OperadoresConjuntos\OperadoresConjuntos.csproj", "{40CC00B4-8F1B-4509-86E9-DB74FE3C3896}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covariancia", "..\Covariancia\Covariancia.csproj", "{349FD245-0B9F-46A4-85BE-34FF89B787FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{40CC00B4-8F1B-4509-86E9-DB74FE3C3896}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40CC00B4-8F1B-4509-86E9-DB74FE3C3896}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40CC00B4-8F1B-4509-86E9-DB74FE3C3896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{349FD245-0B9F-46A4-85BE-34FF89B787FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{349FD245-0B9F-46A4-85BE-34FF89B787FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{349FD245-0B9F-46A4-85BE-34FF89B787FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{349FD245-0B9F-46A4-85BE-34FF89B787FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
